@@ -1,25 +1,19 @@
 # 使用方式
 
-账号🐔了。~~只有标清..~~ 高清为主😅
-
-gitee仓库被封...
-
-~~gitee ip被ban，仓库链接已失效~~
-
 仓库地址存在频道缺失或无法播放的问题，稳定性较差，回放功能仅migu源生效。
 
 访问地址(可回看当天内容)
 
 ```
-https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt
+https://raw.githubusercontent.com/BtPanel/migu_video/refs/heads/main/interface.txt
 
-https://develop202.github.io/migu_video/interface.txt
+https://BtPanel.github.io/migu_video/interface.txt
 ```
 
 网络环境差的话可以用这个(不一定稳定,其他加速网站也可以)
 
 ```
-https://gh-proxy.com/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt
+https://gh-proxy.com/https://raw.githubusercontent.com/BtPanel/migu_video/refs/heads/main/interface.txt
 ```
 
 # 本地部署
@@ -59,7 +53,7 @@ https://gh-proxy.com/https://raw.githubusercontent.com/develop202/migu_video/ref
 ### 安装
 
 ```shell
-git clone git@github.com:develop202/migu_video.git
+git clone git@github.com:BtPanel/migu_video.git
 cd migu_video
 ```
 
