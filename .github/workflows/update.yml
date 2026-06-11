@@ -11,7 +11,7 @@ jobs:
     steps:
       - name: 检出
         uses: actions/checkout@v6
-      - name: 拉取Gitee仓库
+      - name: 拉取Github仓库
         env:
           GITEE_TOKEN: ${{ secrets.GITEE_TOKEN }}
         run: git clone https://dream-deve:${GITEE_TOKEN}@github.com/develop202/migu_video.git
