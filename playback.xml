@@ -8607,8 +8607,53 @@
     <channel id="快乐垂钓">
         <display-name lang="zh">快乐垂钓</display-name>
     </channel>
-    <programme channel="快乐垂钓" start="20260803000000 +0800" stop="20260803235900 +0800">
-        <title lang="zh"></title>
+    <programme channel="快乐垂钓" start="20260803000000 +0800" stop="20260803010000 +0800">
+        <title lang="zh">2026王者之战小组赛</title>
+    </programme>
+    <programme channel="快乐垂钓" start="20260803010000 +0800" stop="20260803020000 +0800">
+        <title lang="zh">垂钓学院：水库钓草全解析</title>
+    </programme>
+    <programme channel="快乐垂钓" start="20260803020000 +0800" stop="20260803080000 +0800">
+        <title lang="zh">收播结束</title>
+    </programme>
+    <programme channel="快乐垂钓" start="20260803080000 +0800" stop="20260803100000 +0800">
+        <title lang="zh">快乐垂钓商城会员日（重播）</title>
+    </programme>
+    <programme channel="快乐垂钓" start="20260803100000 +0800" stop="20260803103000 +0800">
+        <title lang="zh">就这样钓鱼：野河手竿钓鲢鳙</title>
+    </programme>
+    <programme channel="快乐垂钓" start="20260803103000 +0800" stop="20260803110000 +0800">
+        <title lang="zh">钩尖上的美食：东江湖擒青竹鲤</title>
+    </programme>
+    <programme channel="快乐垂钓" start="20260803110000 +0800" stop="20260803120000 +0800">
+        <title lang="zh">垂钓学院：正钓抢鱼巧用饵</title>
+    </programme>
+    <programme channel="快乐垂钓" start="20260803120000 +0800" stop="20260803140000 +0800">
+        <title lang="zh">快乐垂钓商城会员日重播）</title>
+    </programme>
+    <programme channel="快乐垂钓" start="20260803140000 +0800" stop="20260803160000 +0800">
+        <title lang="zh">2026王者之战小组赛</title>
+    </programme>
+    <programme channel="快乐垂钓" start="20260803160000 +0800" stop="20260803163000 +0800">
+        <title lang="zh">就这样钓鱼：野河手竿钓鲢鳙</title>
+    </programme>
+    <programme channel="快乐垂钓" start="20260803163000 +0800" stop="20260803170000 +0800">
+        <title lang="zh">钩尖上的美食：东江湖擒青竹鲤</title>
+    </programme>
+    <programme channel="快乐垂钓" start="20260803170000 +0800" stop="20260803180000 +0800">
+        <title lang="zh">垂钓学院：正钓抢鱼巧用饵</title>
+    </programme>
+    <programme channel="快乐垂钓" start="20260803180000 +0800" stop="20260803200000 +0800">
+        <title lang="zh">2026王者之战小组赛</title>
+    </programme>
+    <programme channel="快乐垂钓" start="20260803200000 +0800" stop="20260803220000 +0800">
+        <title lang="zh">快乐垂钓商城会员日（重播）</title>
+    </programme>
+    <programme channel="快乐垂钓" start="20260803220000 +0800" stop="20260803230000 +0800">
+        <title lang="zh">我们的征途：西沙北礁行（上）</title>
+    </programme>
+    <programme channel="快乐垂钓" start="20260803230000 +0800" stop="20260804000000 +0800">
+        <title lang="zh">2026王者之战小组赛A组第九期</title>
     </programme>
     <channel id="建党105周年巡礼">
         <display-name lang="zh">建党105周年巡礼</display-name>
@@ -10443,8 +10488,101 @@
     <channel id="新动漫">
         <display-name lang="zh">新动漫</display-name>
     </channel>
-    <programme channel="新动漫" start="20260803000000 +0800" stop="20260803235900 +0800">
-        <title lang="zh"></title>
+    <programme channel="新动漫" start="20260802234000 +0800" stop="20260803001800 +0800">
+        <title lang="zh">狐狸快跑</title>
+    </programme>
+    <programme channel="新动漫" start="20260803001800 +0800" stop="20260803010000 +0800">
+        <title lang="zh">小顽皮</title>
+    </programme>
+    <programme channel="新动漫" start="20260803010000 +0800" stop="20260803013300 +0800">
+        <title lang="zh">超能小精灵</title>
+    </programme>
+    <programme channel="新动漫" start="20260803013300 +0800" stop="20260803023000 +0800">
+        <title lang="zh">梦想总动员</title>
+    </programme>
+    <programme channel="新动漫" start="20260803023000 +0800" stop="20260803034500 +0800">
+        <title lang="zh">外星小子哆不哆</title>
+    </programme>
+    <programme channel="新动漫" start="20260803034500 +0800" stop="20260803041500 +0800">
+        <title lang="zh">山猫侠</title>
+    </programme>
+    <programme channel="新动漫" start="20260803041500 +0800" stop="20260803051800 +0800">
+        <title lang="zh">超级伊仔</title>
+    </programme>
+    <programme channel="新动漫" start="20260803051800 +0800" stop="20260803055700 +0800">
+        <title lang="zh">狐狸快跑</title>
+    </programme>
+    <programme channel="新动漫" start="20260803055700 +0800" stop="20260803062500 +0800">
+        <title lang="zh">小顽皮</title>
+    </programme>
+    <programme channel="新动漫" start="20260803062500 +0800" stop="20260803070200 +0800">
+        <title lang="zh">超能小精灵</title>
+    </programme>
+    <programme channel="新动漫" start="20260803070200 +0800" stop="20260803073000 +0800">
+        <title lang="zh">梦想总动员</title>
+    </programme>
+    <programme channel="新动漫" start="20260803073000 +0800" stop="20260803084500 +0800">
+        <title lang="zh">外星小子哆不哆</title>
+    </programme>
+    <programme channel="新动漫" start="20260803084500 +0800" stop="20260803093800 +0800">
+        <title lang="zh">山猫侠</title>
+    </programme>
+    <programme channel="新动漫" start="20260803093800 +0800" stop="20260803103600 +0800">
+        <title lang="zh">超级伊仔</title>
+    </programme>
+    <programme channel="新动漫" start="20260803103600 +0800" stop="20260803111500 +0800">
+        <title lang="zh">狐狸快跑</title>
+    </programme>
+    <programme channel="新动漫" start="20260803111500 +0800" stop="20260803114300 +0800">
+        <title lang="zh">小顽皮</title>
+    </programme>
+    <programme channel="新动漫" start="20260803114300 +0800" stop="20260803121700 +0800">
+        <title lang="zh">超能小精灵</title>
+    </programme>
+    <programme channel="新动漫" start="20260803121700 +0800" stop="20260803131300 +0800">
+        <title lang="zh">梦想总动员</title>
+    </programme>
+    <programme channel="新动漫" start="20260803131300 +0800" stop="20260803141800 +0800">
+        <title lang="zh">外星小子哆不哆</title>
+    </programme>
+    <programme channel="新动漫" start="20260803141800 +0800" stop="20260803151200 +0800">
+        <title lang="zh">山猫侠</title>
+    </programme>
+    <programme channel="新动漫" start="20260803151200 +0800" stop="20260803161400 +0800">
+        <title lang="zh">超级伊仔</title>
+    </programme>
+    <programme channel="新动漫" start="20260803161400 +0800" stop="20260803165500 +0800">
+        <title lang="zh">狐狸快跑</title>
+    </programme>
+    <programme channel="新动漫" start="20260803165500 +0800" stop="20260803173100 +0800">
+        <title lang="zh">小顽皮</title>
+    </programme>
+    <programme channel="新动漫" start="20260803173100 +0800" stop="20260803175600 +0800">
+        <title lang="zh">超能小精灵</title>
+    </programme>
+    <programme channel="新动漫" start="20260803175600 +0800" stop="20260803183500 +0800">
+        <title lang="zh">梦想总动员</title>
+    </programme>
+    <programme channel="新动漫" start="20260803183500 +0800" stop="20260803194200 +0800">
+        <title lang="zh">梦精灵叶罗丽</title>
+    </programme>
+    <programme channel="新动漫" start="20260803194200 +0800" stop="20260803200600 +0800">
+        <title lang="zh">石头娃</title>
+    </programme>
+    <programme channel="新动漫" start="20260803200600 +0800" stop="20260803203300 +0800">
+        <title lang="zh">太姥娘娘与白茶仙子</title>
+    </programme>
+    <programme channel="新动漫" start="20260803203300 +0800" stop="20260803214800 +0800">
+        <title lang="zh">外星小子哆不哆</title>
+    </programme>
+    <programme channel="新动漫" start="20260803214800 +0800" stop="20260803224200 +0800">
+        <title lang="zh">山猫侠</title>
+    </programme>
+    <programme channel="新动漫" start="20260803224200 +0800" stop="20260803234000 +0800">
+        <title lang="zh">超级伊仔</title>
+    </programme>
+    <programme channel="新动漫" start="20260803234000 +0800" stop="20260804001800 +0800">
+        <title lang="zh">狐狸快跑</title>
     </programme>
     <channel id="新动力量创一流">
         <display-name lang="zh">新动力量创一流</display-name>
