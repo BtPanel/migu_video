@@ -97,13 +97,13 @@
         <title lang="zh">前情提要-藏锋-第11集</title>
     </programme>
     <programme channel="CCTV1综合" start="20260825200600 +0800" stop="20260825205640 +0800">
-        <title lang="zh">藏锋11/23</title>
+        <title lang="zh">藏锋第11集</title>
     </programme>
     <programme channel="CCTV1综合" start="20260825205640 +0800" stop="20260825205950 +0800">
         <title lang="zh">前情提要-藏锋-第12集</title>
     </programme>
     <programme channel="CCTV1综合" start="20260825205950 +0800" stop="20260825214750 +0800">
-        <title lang="zh">藏锋12/23</title>
+        <title lang="zh">藏锋第12集</title>
     </programme>
     <programme channel="CCTV1综合" start="20260825214750 +0800" stop="20260825220000 +0800">
         <title lang="zh">非遗里的中国-MV</title>
@@ -115,7 +115,7 @@
         <title lang="zh">自然中国-智绘中国-图惠民生</title>
     </programme>
     <programme channel="CCTV1综合" start="20260825231150 +0800" stop="20260825235900 +0800">
-        <title lang="zh">2024中国诗词大会-2</title>
+        <title lang="zh">非遗里的中国（第五季）-四川德阳篇</title>
     </programme>
     <channel id="CCTV2财经">
         <display-name lang="zh">CCTV2财经</display-name>
@@ -321,13 +321,13 @@
     <programme channel="CCTV3综艺" start="20260825200000 +0800" stop="20260825212040 +0800">
         <title lang="zh">全民畅舞-18</title>
     </programme>
-    <programme channel="CCTV3综艺" start="20260825212040 +0800" stop="20260825223950 +0800">
+    <programme channel="CCTV3综艺" start="20260825212040 +0800" stop="20260825225625 +0800">
         <title lang="zh">第二十一届长春电影节开幕式-1</title>
     </programme>
-    <programme channel="CCTV3综艺" start="20260825223950 +0800" stop="20260825231955 +0800">
+    <programme channel="CCTV3综艺" start="20260825225625 +0800" stop="20260825233630 +0800">
         <title lang="zh">动物园里有什么-3</title>
     </programme>
-    <programme channel="CCTV3综艺" start="20260825231955 +0800" stop="20260825235900 +0800">
+    <programme channel="CCTV3综艺" start="20260825233630 +0800" stop="20260825235900 +0800">
         <title lang="zh">综艺喜乐汇-2026-883 四喜19/36</title>
     </programme>
     <channel id="CCTV4中文国际">
@@ -591,14 +591,20 @@
     <programme channel="CCTV5+体育赛事" start="20260825175900 +0800" stop="20260825190000 +0800">
         <title lang="zh">实况录像-WTT欧洲大满贯2026 比赛 4</title>
     </programme>
-    <programme channel="CCTV5+体育赛事" start="20260825190000 +0800" stop="20260825193000 +0800">
-        <title lang="zh">实况录像-2026年世界艺术体操锦标赛 25分钟版</title>
+    <programme channel="CCTV5+体育赛事" start="20260825190000 +0800" stop="20260825191500 +0800">
+        <title lang="zh">实况录像-第二届世界人形机器人运动会 集锦1（ 录播）</title>
     </programme>
-    <programme channel="CCTV5+体育赛事" start="20260825193000 +0800" stop="20260825210300 +0800">
+    <programme channel="CCTV5+体育赛事" start="20260825191500 +0800" stop="20260825194000 +0800">
+        <title lang="zh">2026/2027法国足球甲级联赛-第1轮集锦（4K）</title>
+    </programme>
+    <programme channel="CCTV5+体育赛事" start="20260825194000 +0800" stop="20260825200000 +0800">
+        <title lang="zh">实况录像-第二届世界人形机器人运动会 集锦2（ 录播）</title>
+    </programme>
+    <programme channel="CCTV5+体育赛事" start="20260825200000 +0800" stop="20260825212500 +0800">
         <title lang="zh">实况录像-2026/2027赛季斯诺克中国公开赛 3</title>
     </programme>
-    <programme channel="CCTV5+体育赛事" start="20260825210300 +0800" stop="20260825213500 +0800">
-        <title lang="zh">2026/2027法国足球甲级联赛-第1轮集锦（4K）</title>
+    <programme channel="CCTV5+体育赛事" start="20260825212500 +0800" stop="20260825213500 +0800">
+        <title lang="zh">实况录像-荣耀十分-2026年世界青年田径锦标赛 中国队获二金</title>
     </programme>
     <programme channel="CCTV5+体育赛事" start="20260825213500 +0800" stop="20260825230600 +0800">
         <title lang="zh">实况录像-2026年世界二十岁以下田径锦标赛 2</title>
