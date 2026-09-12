@@ -3687,8 +3687,152 @@
     <channel id="河北卫视">
         <display-name lang="zh">河北卫视</display-name>
     </channel>
-    <programme channel="河北卫视" start="20260913000000 +0800" stop="20260913235900 +0800">
-        <title lang="zh"></title>
+    <programme channel="河北卫视" start="20260912235900 +0800" stop="20260913004200 +0800">
+        <title lang="zh">群星闪耀时</title>
+    </programme>
+    <programme channel="河北卫视" start="20260913004200 +0800" stop="20260913013700 +0800">
+        <title lang="zh">群星闪耀时</title>
+    </programme>
+    <programme channel="河北卫视" start="20260913013700 +0800" stop="20260913023100 +0800">
+        <title lang="zh">群星闪耀时</title>
+    </programme>
+    <programme channel="河北卫视" start="20260913023100 +0800" stop="20260913032500 +0800">
+        <title lang="zh">群星闪耀时</title>
+    </programme>
+    <programme channel="河北卫视" start="20260913032500 +0800" stop="20260913041900 +0800">
+        <title lang="zh">群星闪耀时</title>
+    </programme>
+    <programme channel="河北卫视" start="20260913041900 +0800" stop="20260913051400 +0800">
+        <title lang="zh">群星闪耀时</title>
+    </programme>
+    <programme channel="河北卫视" start="20260913051400 +0800" stop="20260913062500 +0800">
+        <title lang="zh">群星闪耀时</title>
+    </programme>
+    <programme channel="河北卫视" start="20260913062500 +0800" stop="20260913063000 +0800">
+        <title lang="zh">宣传段</title>
+    </programme>
+    <programme channel="河北卫视" start="20260913063000 +0800" stop="20260913073000 +0800">
+        <title lang="zh">冀时全播报</title>
+    </programme>
+    <programme channel="河北卫视" start="20260913073000 +0800" stop="20260913080000 +0800">
+        <title lang="zh">美丽河北慢直播</title>
+    </programme>
+    <programme channel="河北卫视" start="20260913080000 +0800" stop="20260913080300 +0800">
+        <title lang="zh">宣传段</title>
+    </programme>
+    <programme channel="河北卫视" start="20260913080300 +0800" stop="20260913081200 +0800">
+        <title lang="zh">侯绍裘星耀云间</title>
+    </programme>
+    <programme channel="河北卫视" start="20260913081200 +0800" stop="20260913081500 +0800">
+        <title lang="zh">宣传段</title>
+    </programme>
+    <programme channel="河北卫视" start="20260913081500 +0800" stop="20260913090500 +0800">
+        <title lang="zh">经典剧场:父母爱情</title>
+    </programme>
+    <programme channel="河北卫视" start="20260913090500 +0800" stop="20260913091400 +0800">
+        <title lang="zh">宣传段</title>
+    </programme>
+    <programme channel="河北卫视" start="20260913091400 +0800" stop="20260913100400 +0800">
+        <title lang="zh">经典剧场:父母爱情</title>
+    </programme>
+    <programme channel="河北卫视" start="20260913100400 +0800" stop="20260913101300 +0800">
+        <title lang="zh">宣传段</title>
+    </programme>
+    <programme channel="河北卫视" start="20260913101300 +0800" stop="20260913110300 +0800">
+        <title lang="zh">经典剧场:父母爱情</title>
+    </programme>
+    <programme channel="河北卫视" start="20260913110300 +0800" stop="20260913110800 +0800">
+        <title lang="zh">宣传段</title>
+    </programme>
+    <programme channel="河北卫视" start="20260913110800 +0800" stop="20260913115800 +0800">
+        <title lang="zh">经典剧场:父母爱情</title>
+    </programme>
+    <programme channel="河北卫视" start="20260913115800 +0800" stop="20260913120600 +0800">
+        <title lang="zh">宣传段</title>
+    </programme>
+    <programme channel="河北卫视" start="20260913120600 +0800" stop="20260913125600 +0800">
+        <title lang="zh">经典剧场:父母爱情</title>
+    </programme>
+    <programme channel="河北卫视" start="20260913125600 +0800" stop="20260913130200 +0800">
+        <title lang="zh">宣传段</title>
+    </programme>
+    <programme channel="河北卫视" start="20260913130200 +0800" stop="20260913135200 +0800">
+        <title lang="zh">情感剧场:父母爱情</title>
+    </programme>
+    <programme channel="河北卫视" start="20260913135200 +0800" stop="20260913135900 +0800">
+        <title lang="zh">宣传段</title>
+    </programme>
+    <programme channel="河北卫视" start="20260913135900 +0800" stop="20260913144900 +0800">
+        <title lang="zh">情感剧场:父母爱情</title>
+    </programme>
+    <programme channel="河北卫视" start="20260913144900 +0800" stop="20260913145800 +0800">
+        <title lang="zh">宣传段</title>
+    </programme>
+    <programme channel="河北卫视" start="20260913145800 +0800" stop="20260913154800 +0800">
+        <title lang="zh">情感剧场:父母爱情</title>
+    </programme>
+    <programme channel="河北卫视" start="20260913154800 +0800" stop="20260913155600 +0800">
+        <title lang="zh">宣传段</title>
+    </programme>
+    <programme channel="河北卫视" start="20260913155600 +0800" stop="20260913164600 +0800">
+        <title lang="zh">情感剧场:父母爱情</title>
+    </programme>
+    <programme channel="河北卫视" start="20260913164600 +0800" stop="20260913165500 +0800">
+        <title lang="zh">宣传段</title>
+    </programme>
+    <programme channel="河北卫视" start="20260913165500 +0800" stop="20260913174500 +0800">
+        <title lang="zh">情感剧场:父母爱情</title>
+    </programme>
+    <programme channel="河北卫视" start="20260913174500 +0800" stop="20260913175100 +0800">
+        <title lang="zh">宣传段</title>
+    </programme>
+    <programme channel="河北卫视" start="20260913175100 +0800" stop="20260913183000 +0800">
+        <title lang="zh">家政女皇</title>
+    </programme>
+    <programme channel="河北卫视" start="20260913183000 +0800" stop="20260913185500 +0800">
+        <title lang="zh">河北新闻联播</title>
+    </programme>
+    <programme channel="河北卫视" start="20260913185500 +0800" stop="20260913190000 +0800">
+        <title lang="zh">宣传段</title>
+    </programme>
+    <programme channel="河北卫视" start="20260913190000 +0800" stop="20260913193000 +0800">
+        <title lang="zh">中央台新闻联播</title>
+    </programme>
+    <programme channel="河北卫视" start="20260913193000 +0800" stop="20260913193600 +0800">
+        <title lang="zh">宣传段</title>
+    </programme>
+    <programme channel="河北卫视" start="20260913193600 +0800" stop="20260913201800 +0800">
+        <title lang="zh">黄金剧场：伟大的转折</title>
+    </programme>
+    <programme channel="河北卫视" start="20260913201800 +0800" stop="20260913202600 +0800">
+        <title lang="zh">宣传段</title>
+    </programme>
+    <programme channel="河北卫视" start="20260913202600 +0800" stop="20260913210900 +0800">
+        <title lang="zh">黄金剧场：伟大的转折</title>
+    </programme>
+    <programme channel="河北卫视" start="20260913210900 +0800" stop="20260913211600 +0800">
+        <title lang="zh">宣传段</title>
+    </programme>
+    <programme channel="河北卫视" start="20260913211600 +0800" stop="20260913215000 +0800">
+        <title lang="zh">电视剧：跨过鸭绿江</title>
+    </programme>
+    <programme channel="河北卫视" start="20260913215000 +0800" stop="20260913222500 +0800">
+        <title lang="zh">电视剧：跨过鸭绿江</title>
+    </programme>
+    <programme channel="河北卫视" start="20260913222500 +0800" stop="20260913230000 +0800">
+        <title lang="zh">电视剧：跨过鸭绿江</title>
+    </programme>
+    <programme channel="河北卫视" start="20260913230000 +0800" stop="20260913230100 +0800">
+        <title lang="zh">宣传段</title>
+    </programme>
+    <programme channel="河北卫视" start="20260913230100 +0800" stop="20260913233100 +0800">
+        <title lang="zh">你好京津冀</title>
+    </programme>
+    <programme channel="河北卫视" start="20260913233100 +0800" stop="20260913233400 +0800">
+        <title lang="zh">宣传段</title>
+    </programme>
+    <programme channel="河北卫视" start="20260913233400 +0800" stop="20260914000000 +0800">
+        <title lang="zh">城市烟火</title>
     </programme>
     <channel id="江西卫视">
         <display-name lang="zh">江西卫视</display-name>
