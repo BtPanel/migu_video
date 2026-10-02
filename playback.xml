@@ -447,14 +447,17 @@
     <programme channel="CCTV5体育" start="20261002070000 +0800" stop="20261002080000 +0800">
         <title lang="zh">体坛晨报-亚运晨报</title>
     </programme>
-    <programme channel="CCTV5体育" start="20261002080000 +0800" stop="20261002122000 +0800">
+    <programme channel="CCTV5体育" start="20261002080000 +0800" stop="20261002115000 +0800">
         <title lang="zh">2026年亚运会-赛事转播报道13-1</title>
     </programme>
-    <programme channel="CCTV5体育" start="20261002122000 +0800" stop="20261002125500 +0800">
+    <programme channel="CCTV5体育" start="20261002115000 +0800" stop="20261002125500 +0800">
         <title lang="zh">体坛快讯-亚运最前沿</title>
     </programme>
-    <programme channel="CCTV5体育" start="20261002125500 +0800" stop="20261002213000 +0800">
+    <programme channel="CCTV5体育" start="20261002125500 +0800" stop="20261002193000 +0800">
         <title lang="zh">2026年亚运会-赛事转播报道13-2</title>
+    </programme>
+    <programme channel="CCTV5体育" start="20261002193000 +0800" stop="20261002213000 +0800">
+        <title lang="zh">2026年中国网球公开赛</title>
     </programme>
     <programme channel="CCTV5体育" start="20261002213000 +0800" stop="20261002223500 +0800">
         <title lang="zh">体育世界-全景亚运</title>
@@ -486,13 +489,13 @@
     <programme channel="CCTV5+体育赛事" start="20261002073000 +0800" stop="20261002080000 +0800">
         <title lang="zh">2026/2027法国足球甲级联赛-第3轮集锦（4K）</title>
     </programme>
-    <programme channel="CCTV5+体育赛事" start="20261002080000 +0800" stop="20261002133000 +0800">
+    <programme channel="CCTV5+体育赛事" start="20261002080000 +0800" stop="20261002110000 +0800">
         <title lang="zh">2026年亚运会-赛事直播13</title>
     </programme>
-    <programme channel="CCTV5+体育赛事" start="20261002133000 +0800" stop="20261002150000 +0800">
-        <title lang="zh">2026年中国网球公开赛-女单、男单第二轮1</title>
+    <programme channel="CCTV5+体育赛事" start="20261002110000 +0800" stop="20261002130000 +0800">
+        <title lang="zh">2026年中国网球公开赛</title>
     </programme>
-    <programme channel="CCTV5+体育赛事" start="20261002150000 +0800" stop="20261002193000 +0800">
+    <programme channel="CCTV5+体育赛事" start="20261002130000 +0800" stop="20261002193000 +0800">
         <title lang="zh">2026年亚运会-赛事直播14</title>
     </programme>
     <programme channel="CCTV5+体育赛事" start="20261002193000 +0800" stop="20261002214000 +0800">
